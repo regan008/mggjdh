@@ -1,6 +1,6 @@
 # Abstract
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/C2DH/template_repo_JDH_R/main?filepath=author_guideline_template.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/C2DH/template_repo_JDH_R/HEAD?filepath=author_guideline_template.ipynb)
 
 At the root:
 
